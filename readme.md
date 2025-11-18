@@ -18,7 +18,7 @@ Rather than leaving it idle, I decided to dedicate it to a second operating syst
    
    - Created a bootable USB using the **Kali Linux ISO image**
 
-  !(assets/rufus.png)
+  ![](assets/rufus.png)
 
 2. **Booted into BIOS (Dell Laptop – F11)**  
    - Selected the USB drive as the boot device
