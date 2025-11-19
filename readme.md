@@ -28,7 +28,7 @@ Rather than leaving it idle, I decided to dedicate it to a second operating syst
      ![](assets/2.jpg)
 
    - Used the **guided partitioning method** to allocate the free 512GB SATA SSD
-       ![](assets/3.jpeg)
+       ![](assets/.jpeg)
             ![](assets/4.jpeg)
 
    
