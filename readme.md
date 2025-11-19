@@ -23,14 +23,26 @@ Rather than leaving it idle, I decided to dedicate it to a second operating syst
 2. **Booted into BIOS (Dell Laptop – F11)**  
    - Selected the USB drive as the boot device
 
-3. **Installed Kali Linux**  
-   - Used the **guided partitioning method** to allocate the free 512GB SATA SSD  
-   - Configured username and device name during setup
+3. **Installed Kali Linux**
+   -Entered Hostname during Installation
+     ![](assets/2.jpg)
 
-4. **Verified Dual Boot**  
+   - Used the **guided partitioning method** to allocate the free 512GB SATA SSD
+       ![](assets/3.jpeg)
+            ![](assets/4.jpeg)
+
+   
+   - Configured username and device name during setup and finished
+            ![](assets/5.jpeg)
+
+
+5. **Verified Dual Boot**  
    - Restarted the laptop  
-   - Confirmed the bootloader presented options for **Windows** and **Kali Linux**  
+   - Confirmed the bootloader presented options for **Windows** and **Kali Linux**
+            ![](assets/6.jpeg)
+
    - Successfully booted into both operating systems without issue
+       ![](assets/7.jpeg)
 
 ---
 
